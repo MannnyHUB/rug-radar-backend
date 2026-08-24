@@ -1,0 +1,6 @@
+{
+  "name": "rug-radar-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal serverless backend for Rug Radar — fetches live token data from DexScreener's free public API."
+}
